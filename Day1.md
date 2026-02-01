@@ -43,18 +43,20 @@ Throughout this flow, tools such as Yosys, ABC, ioplacer, PDN, RePlAce, TritonCT
 
 ![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(26).png)
 
-![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(29).png)
-
-![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(30).png)
-
 ![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(27).png)
 
 ![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(28).png)
-
-![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(31).png)
-
 
 - Flop Ratio can be calculated from the above information:
 - Flip flop ratio = (No. of Dff/No. of Cells)*100
 - So, from the above two images No. of Dff=1613 and No.of Cells = 14876
 - So, flip flop ratio is (1613/14876)*100 = 10.843%
+
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(29).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(30).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(31).png)
+
+
