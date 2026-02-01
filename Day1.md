@@ -33,16 +33,26 @@ GDS-II Generation: Design Rule Checks (DRC) are performed, and the final layout 
 
 Throughout this flow, tools such as Yosys, ABC, ioplacer, PDN, RePlAce, TritonCTS, and Magic are used to automate and validate each design stage.
 
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(22).png)
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(23).png)
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(24).png)
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(25).png)
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(26).png)
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(27).png)
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(28).png)
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(29).png)
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(30).png)
-![image alt] (https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(31).png)
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(22).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(23).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(24).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(25).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(26).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(27).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(28).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(29).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(30).png)
+
+![image alt](https://github.com/Sivananth-G/VSDNASSCOM---Digital-VLSI-SoC-design-and-planning/blob/59f5978d2eb1fea4b7050852d94dca5afc015e7c/Day1/Screenshot%20(31).png)
+
 
 - Flop Ratio can be calculated from the above information:
 - Flip flop ratio = (No. of Dff/No. of Cells)*100
